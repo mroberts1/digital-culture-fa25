@@ -17,23 +17,11 @@ website:
     search: false
     style: "floating"
     # collapse-level: 1
-    contents:
-        - section: "Lectures"
-          contents:
-            - text: W1 Sites of Struggle
-              file: w1-sites-of-struggle.qmd
-            - text: W2 Ideology and the Orwellian
-              file: w2-ideology.qmd
-            - text: W3 Simulation and Pastiche
-              file: w3-simulation-pastiche.qmd
-            - text: W4 Material Girls
-              file: w4-feminism.qmd
-            - text: W5 Black Witnessing
-              file: w5-witnessing.qmd
-            - text: W6 From Subcultures to Aesthetics
-              file: w6-aesthetics.qmd
-            - text: W7 Revenge of the Nerds
-              file: w7-fandom.qmd
+    # contents:
+    #     - section: "Lectures"
+    #       contents:
+    #         - text: W1 Sites of Struggle
+    #           file: w1-sites-of-struggle.qmd
         # - section: "Resources"
         #   contents:
         #     - text: Key Concepts
@@ -83,7 +71,7 @@ format:
     linkcolor: "#62259d"
     page-layout: article
     title-block-banner: true
-  PrettyPDF-pdf: default
+  #PrettyPDF-pdf: default
 fig-responsive: true
 image-alt: " "
 execute:
