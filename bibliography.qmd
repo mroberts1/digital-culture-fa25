@@ -11,6 +11,8 @@ csl: chicago-author-date.csl
 
 ## Required Texts
 
+Aleksic, Adam. 2025. *Algospeak: How Social Media Is Transforming the Future of Language*. New York: Alfred A. Knopf.
+
 Fisher, Mark. *Capitalist Realism: Is There No Alternative?* Winchester, UK: Zero Books, 2009.
 
 Richardson, Allissa V. *Bearing Witness While Black: African Americans, Smartphones, and the New Protest #Journalism*. Oxford: Oxford University Press, 2020.
@@ -71,6 +73,8 @@ Baym, Nancy K. "Social Media and the Struggle for Society." *Social Media + Soci
 
 Baym, Nancy K., Daniel Cavicchi, and Norma Coates. "Music Fandom in the Digital Age: A Conversation." In *The Routledge Companion to Media Fandom*, edited by Melissa A. Click and Suzanne Scott, 141-152. New York: Routledge, 2018.
 
+Tiffany, Kaitlyn. *Everything I Need I Get from You: How Fangirls Created the Internet as We Know It*. New York: Macmillan, 2022.
+
 ## Additional Recommended Readings
 
 ### Semiotics and Media Theory
@@ -104,6 +108,7 @@ Marwick, Alice E. *Status Update: Celebrity, Publicity, and Branding in the Soci
 Tufekci, Zeynep. *Twitter and Tear Gas: The Power and Fragility of Networked Protest*. New Haven: Yale University Press, 2017.
 
 ### Feminism and Gender Studies
+
 Butler, Judith. *Gender Trouble: Feminism and the Subversion of Identity*. New York: Routledge, 1990.
 
 hooks, bell. *Feminism Is for Everybody: Passionate Politics*. Cambridge, MA: South End Press, 2000.
@@ -113,6 +118,7 @@ McRobbie, Angela. *The Aftermath of Feminism: Gender, Culture and Social Change*
 Mulvey, Laura. "Visual Pleasure and Narrative Cinema." *Screen* 16, no. 3 (1975): 6-18.
 
 ### Race and Media
+
 Bonilla, Yarimar, and Jonathan Rosa. "#Ferguson: Digital Protest, Hashtag Ethnography, and the Racial Politics of Social Media in the United States." *American Ethnologist* 42, no. 1 (2015): 4-17.
 
 Gray, Herman. *Watching Race: Television and the Struggle for Blackness*. Minneapolis: University of Minnesota Press, 2004.

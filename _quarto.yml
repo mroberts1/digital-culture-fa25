@@ -12,7 +12,7 @@ website:
   #   card-style: summary_large_image
   favicon: "/img/cropped-cropped-flourish-1-270x270.gif"
   margin-header: |
-    ![](/img/Emerson-PrimaryLogo-Reversed-Color-400px.png)
+    ![](/img/Emerson-PrimaryLogo-Reversed-Color-400px.png){width="75%"}
   sidebar:
     search: false
     style: "floating"
@@ -28,12 +28,12 @@ website:
         #       file: key-concepts.qmd
   navbar:
     background: "#62259d"
-    search: true
-    left:
-    - text: Syllabus
-      file: index.qmd
-    - text: Bibliography
-      file: bibliography.qmd
+    # search: true
+    # left:
+    # - text: Syllabus
+    #   file: index.qmd
+    # - text: Bibliography
+    #   file: bibliography.qmd
     right:
     - icon: envelope
       aria-label: envelope
@@ -44,33 +44,30 @@ website:
     - icon: github
       aria-label: github
       href: https://github.com/mroberts1
-    - icon: facebook
-      aria-label: facebook
-      href: https://facebook.com/mr05301
     - icon: twitter
       aria-label: twitter
-      href: https://twitter.com/mroberts_VMA
+      href: https://twitter.com/mroberts_vma
 format: 
   html:
     toc: false
     toc-depth: 3  
-    toc-location: right
+    toc-location: left
     toc-title: '   '
     theme: 
       light: ember.scss
       dark: [slate, ember.scss]
     css: custom.scss
     grid:
-        #sidebar-width: 400px
-        body-width: 800px
-        #margin-width: 300px
+        sidebar-width: 300px
+        body-width: 700px
+        margin-width: 400px
         gutter-width: 2em
+    # page-layout: article
     fontsize: 1em
     linestretch: 1.5
     smooth-scroll: true
     linkcolor: "#62259d"
-    page-layout: article
-    title-block-banner: true
+    title-block-banner: false
   #PrettyPDF-pdf: default
 fig-responsive: true
 image-alt: " "

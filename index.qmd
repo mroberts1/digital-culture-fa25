@@ -2,230 +2,337 @@
 title: "    "
 ---
 
-```{r}
-#| label: load-packages
-#| include: false
+#  Studies in Digital Media & Culture
 
-library(tidyverse)
-library(palmerpenguins)
-```
+[![](chayka_internet_final2-small.gif)](https://www.newyorker.com/culture/infinite-scroll/how-the-internet-turned-us-into-content-machines)
 
-# VM200-2 Media Criticism & Theory
-
-[![](img/cindy-sherman.jpg){fig-alt="Link to MOMA website about Cindy Sherman's Film Stills project"}](https://www.moma.org/interactives/exhibitions/1997/sherman/index.html)
+::: {.column-margin}
 
 [Department of Visual & Media Arts](https://emerson.edu/academics/academic-departments/visual-media-arts)\
 [Emerson College](https://emerson.edu/)\
-Summer 2025\
-Wed 2 July---Wed 20 August (7 weeks)
-Online/asynchronous\
-[Dr. Martin Roberts](http://mroberts.emerson.build/)\
+VM303-01\
+Fall Semester 2025\
+Tues/Thur 4 Sept-12 Dec 2025\
+18:00-19:45\
+Ansin Building 604\
+[Dr. Martin Roberts](http://mroberts1.github.io/)\
+Office: TBA\
+Hours: Tues/Thur 14:30-3:30\
 [{{< fa regular envelope >}}](mailto:martin_roberts@emerson.edu) \| [{{< fa brands mastodon >}}](https://merveilles.town/@dokoissho) \| [{{< fa brands github >}}](https://github.com/mroberts1/) \| [{{< fa brands twitter >}}](https://twitter.com/mroberts_vma)\
-[Canvas site](https://canvas.emerson.edu/courses/2107262)\
-[YouTube playlist](https://youtube.com/playlist?list=PL3uFXkpHLYM7HEYH2Ngow3XQibDur4Vxh&si=ECEyCSIIGVN7R0rD)\
 
-Communication plan:
+:::
 
-The best way to reach me is by emailing me (martin_roberts@emerson.edu) and I will respond within 12 to 24 hours upon receiving your email message.
+<small>Image: Nicholas Conrad / *The New Yorker* </small>
 
-I am also available for zoom meetings. Please email me with your meeting requests and available windows.
 
-Zoom Office Hours: by appointment
+## Overview
 
-https://emerson.zoom.us/j/96415591363 (Passcode: 923351)
+This course considers the nature and contemporary forms of digital culture. Broadly speaking, this can be defined as the diverse range of symbolic practices through which communities affirm and maintain their cultural identities using digital media devices and interfaces in a globally networked society. While these practices are structured by deeply unequal power relations, are contradictory, and often come into conflict with one another, collectively they constitute what may be considered a global digital culture.
 
-## Description
+A key component of the course is the automation of various forms of creative production, from writing to the visual arts, by natural-language processing computational systems (generally referred to as "artificial intelligence" or "AI"). The course addresses some of the many issues raised by such systems, with a particular focus on questions of aesthetics and the increasingly contested relationship between artists and algorithms. While such systems now demonstrably pass the Turing Test (i.e. pass as human or their products as human-produced), they also compel us to reconsider what we mean by "art," or "intelligence" itself.
 
-This online, asynchronous course examines approaches to the analysis and criticism of contemporary media. You will learn how to become critical of the media messages you use *and* create, and how to think and write with agency.
+## Format
 
-There are two components of this course: 
+This is primarily a critical-thinking course, although it includes a practical and production component. This means that it encourages you to think reflexively and analytically about the digitally-mediated cultural practices that the course considers, as well as to participate in them; for example, you will be invited to experiment with image-synthesis and text-generating software and analyze the results using key concepts and theoretical frameworks.
 
-1. A survey of such critical approaches/methods as semiotics [@eco1986semiological; @barthes1972mythologies], psychoanalysis, genre studies, feminist theories [@negra2007introduction], cultural studies [@hall1980encoding], and postmodernism [@baudrillard1994simulacra; @jameson1991postmodernism]; 
+## Outcomes
 
-2. The application of these approaches to examining and critiquing various media forms and contents. We will spend a major part of this semester building up theoretical/methodological foundation while devoting the remaining to the critique and analysis of specific media texts and contexts.
+By the end of the course, students will:
 
-Through extensive reading, writing, class discussion and screening, you will begin to develop the ability to analyze and critique popular media messages and images [@mulvey1975visual], as well as develop a critical worldview informed by contemporary media theory [@fisher2009capitalist].
+-   have acquired a deeper understanding of the social, cultural, and political dimensions of digital technologies and networked communication;
+-   be able to apply critical thinking to contemporary developments in digital culture using relevant analytical concepts and both qualitative and quantitative methodologies such as cultural analytics;
+-   understand basic principles of algorithmic image synthesis on a variety of platforms;
+-   have reflected upon and discussed the larger significance of machine learning systems within global networked societies.
 
-## Learning Objectives
+## Course Texts
 
-By the end of the course, students should be able to:
+Selected chapters from the texts below will be made available as PDFs; you are nevertheless encouraged to purchase at least several of texts that are of interest and read more of them.
 
-1. Identify a variety of critical and theoretical approaches to the media
-2. Develop and refine critical reading strategies, both in terms of the media and writings about the media
-3. Cultivate a suitable academic vocabulary and the ability to write, think and create from a critical perspective
-4. Appreciate an ethically-based and de-centered global perspective on media form and function, sensitive to the work of minority critics and theorists under-represented in the canons of media criticism
-5. Apply theory to practice, and engage with contemporary media production and consumption as critically aware media artists
+Note on formats: A number of texts listed in the [Bibliography](bibliography.qmd) are available as e-books and/or audiobooks. You are encouraged to make use not only of print media but also of these screen-based and audio formats.
 
-## Required Texts
+- Adam Aleksic, [*Algospeak: How Social Media Is Transforming the Future of Language*](https://www.penguinrandomhouse.com/books/776856/algospeak-by-adam-aleksic/). New York: Alfred A. Knopf.
+- [Lev Manovich](https://manovich.net/) and Emanuele Arielli, [*Artificial Aesthetics: Generative AI, Art and Visual Media*](http://manovich.net/index.php/projects/artificial-aesthetics-book). 2019-24.  
+- Kaitlyn Tiffany, [*Everything I Need I Get from You: How Fangirls Created the Internet as We Know It*](https://us.macmillan.com/books/9780374539184/everythingineedigetfromyou/). New York: Macmillan, 2022.
 
-Mark Fisher, *Capitalist Realism: Is There No Alternative?* (Winchester, UK, and Washington, USA: Zero Books, 2009).
+## Assignments & Evaluation
 
-Allissa V. Richardson, *Bearing Witness While Black: African Americans, Smartphones, and the New Protest #Journalism* (Oxford: Oxford University Press, 2020).
+**Fandom Case Study** (20%)  
 
-Supplementary readings, available on Canvas (see bibliography).
+**Aesthetics** (20%)   
+Case study of an aesthetic movement or style, 1,000 words (4 pages, double-spaced). Due mid-semester.
 
-## Course Structure and Requirements
+**Platform Cultures** (20%)  
 
-**Schedule**\
-The course begins on Wednesday 2 July and ends on Tuesday 19 August. Each week of the course accordingly begins on a **Wednesday** and ends on the following **Tuesday**.
+**Generative Art** (20%)    
+Using one of the generative art platforms focused on in the course (DALL-E 2, Midjourney, Stable Diffusion), submit one work that was generated using one of these systems. Images may be still or moving (e.g. animations, GIF loops, etc.)
 
-**Lectures, Discussion Forums, and Weekly Response Posts**\
-Each week, I will post a lecture, either in textual or video format, usually by **Friday** of the week in question. 
+This work will be reviewed collectively by the group and displayed as a gallery, initially on Canvas, and later (with your permission) on the web.
 
-In the lecture, I will assume that you have done the reading assignments for the week, so make sure to complete them before reading (or watching) the lecture. 
+**Research Paper/Project** (20%)    
+Research on an approved topic relevant to the course. Individual or group. Further details will be provided after Spring Break. 1,250-1,500 words.
 
-The lecture will typically introduce some relevant examples relating to the readings that we can use as a starting point for the week's discussion. However, you are also very welcome to suggest examples of your own that may come to mind after reading the course materials and the lecture. 
+## Schedule of Classes
 
-Each week, your initial Response post is due no later than the last day of the week in question (i.e. Tuesday in this case). You are then required to post at least 2 follow-up responses to any other group members' posts (or my own) during the subsequent week. 
-The Discussion cycle for each weekly topic therefore extends over two weeks:
+*Week 1*
 
-- By the end of the first week (Tuesday): initial response post
-- By the end of second week (the following Tuesday): min. 2 follow-ups to other people's posts
+01-16_Thur
 
-Don't sweat too much about meeting exact requirements for post length and frequency! The purpose is for us to have a lively, productive discussion of each week's readings so keep that as your main goal. Forums will also stay open beyond the biweekly cycle so you can catch up with posts later if you have time.
+Introduction
 
-**Assigned Readings**\
-Plan on reading every assignment as listed on the course calendar. Since the reading will both inform and enhance material covered during class, please complete the reading assignments *prior to* watching the lecture videos.
+***
 
-**Attendance and Participation**\
-Full participation in class discussions and timely submission of all assignments constitutes evidence of class attendance. Students are expected to allocate sufficient time to complete all the requirements for each module: reading, viewing, responding to discussion questions, submitting replies to classmates, and completing other assignments on time. Failure to keep up with the pace of the course may result in lower grades or the failure of the class.
+*Week 2*
 
-**Discussion Forums and Weekly Response Posts**\
-Each week you are required to post a response of approximately 100-250 words to the course readings and/or the weekly lecture. The purpose of this assignment is for you to reflect on lectures, reading assignments or media clips and to pose questions. Along with your initial post, you are also required to respond to at least two (2) of your peers’ comments. Response posts are usually due by the end of the week in question: in this case, since the course began on a Wednesday, posts will be due by the Tuesday of the following week.
-
-**Individual Papers**\
-Each of you will write two analytical  papers, which are due on June 9 and July 7 respectively. For the second paper assignment, you have the option to do a creative project (instead of a paper) using either BCS or Postmodernism concepts. Detailed instructions of the assignments are posted on Canvas. Feel free to consult with me if you have questions about an assignment or think you need extra help.
-
-**Response Papers**\
-You will write two response papers responding to assigned films (see syllabus) in the contexts of the assigned readings. Each response paper should be approximately 750-1,000 words in length (3-4 pages, double-spaced). Your grade depends on how well you analyze and critique the film and how well you incorporate the readings into your critique/analysis.
-
-The grading scale for papers is as follows:
-
-|   |   |
-|---|---|
-|A|This is excellent scholarly work that could be published in a student film or media studies journal. It displays good *structure* (i.e., a strong original thesis statement and a logical development of points to follow), *content* (sound analysis and good research when applicable), and *presentational skills* (i.e., excellence in verbal, logical, and grammatical expression, as well as care in mechanical details such as spelling, typing, bibliography and footnote preparation, etc.). It also follows style and formatting rules. (A=95).|
-|B|This is good scholarly work that could be published in a student journal with some adjustments. It has minor problems in a couple of the aforementioned areas. (B=85)|
-|C|This work exhibits problems in several of the aforementioned areas or a major problem in one. (C=75)|
-|D|This work exhibits little understanding of the subject matter or paper requirements. It fails to follow rudimentary formatting and displays sloppiness in spelling, grammar and sourcing. (D=65)|
-|F|This work exhibits no understanding of the subject matter or paper requirements. It fails to follow rudimentary formatting and displays sloppiness in spelling, grammar and sourcing. (F=55)|
-
-## Academic Honesty
-
-Do not plagiarize. Plagiarism is using someone else’s work without giving them fair credit. Plagiarism and cheating will result in an “F” for the assignment.
-
-## Accommodations for Students with Disabilities
-
-Emerson is committed to providing equal access and support to all qualified students through the provision of reasonable accommodations, so that each student may fully participate in the Emerson experience. Student Accessibility Services (SAS) staff will be working remotely for the fall of 2020. If you have a disability that may require accommodations, please contact them at  [*SAS@emerson.edu*](mailto:SAS@emerson.edu) or at (617)824-8592 to make an appointment with an SAS staff member.
-
-Students are encouraged to contact SAS early in the semester. Please be aware that accommodations are not applied retroactively.
-
-## Plagiarism Statement
-
-It is the responsibility of all Emerson students to know and adhere to the College’s policy on plagiarism, which can be found at:  [*http://www.emerson.edu/policy/plagiarism*](http://www.emerson.edu/policy/plagiarism)*. If you have any question concerning the Emerson plagiarism policy or about documentation of sources in work you produce in this course, speak to your instructor.
-
-## Diversity Statement
-
-Every student in this class will be honored and respected as an individual with distinct experiences, talents, and backgrounds. Students will be treated fairly regardless of race, religion, sexual orientation, gender identification, disability, socio-economic status, or national identity. Issues of diversity may be a part of class discussion, assigned material, and projects. The instructor will make every effort to ensure that an inclusive environment exists for all students. If you have any concerns or suggestions for improving the classroom climate, please do not hesitate to speak with the course instructor or to contact the Office of Diversity and Inclusion at 617-824-8528 or by email at  [*diversity*inclusion@emerson.edu*](mailto:diversity*inclusion@emerson.edu)
-
-## Grading
-
-Paper #1 20%
-
-Paper #2/Creative Project 20%
-
-Discussion Posts 30%
-
-Response papers (2) 30%
-
-## Class Schedule
-
-*Week 1: Wed 2 July---Tues 8 July*
-
-**Introduction: Sites of Struggle**
-
-Introduction to the course (Contemporary Criticism + Discourse); Semiotics (signs, denotation, connotation, paradigm & syntagm) [@eco1986semiological]
-
-To read:
-
-- David Welch, "The Conquest of the Masses"
-- Umberto Eco, "Towards a Semiological Guerrilla Warfare"
-
-*Week 2: Wed 9 July---Tues 15 July*
-
-**Obey: Ideology and the Orwellian**
-
-Exploring how ideology shapes media representation and consumption, drawing on Althusser's concept of ideological state apparatuses [@althusser1971ideology] and Fisher's analysis of capitalist realism [@fisher2009capitalist].
-
-To read:
-
-- Louis Althusser, "Ideology and Ideological State Apparatuses"
-- Mark Fisher, "It's Easier to Imagine the End of the World Than the End of Capitalism"
-- Mark Fisher, "Lecture 1: What Is Postcapitalist Desire?"
-
-To watch (if you haven't already!): *Squid Game*
-
-*Week 3: Wed 16 July---Tues 22 July*
-
-**Simulation and Pastiche: Postmodernism**
-
-Examining postmodern media culture through the lens of simulation theory and performativity, using contemporary Instagram art as a case study [@ulman2014excellences].
-
-To read:
-
-- Amalia Ulman, "Excellences & Perfections" ([website](http://amaliaulman.eu/); [Instagram](https://www.instagram.com/amaliaulman/))
-- Alastair Sooke, "Is This The First Instagram Masterpiece?"
-- "Amalia Ulman: Meme Come True"
-- Emilie Friedlander, "Social Anxiety: Why Amalia Ulman's Fake 'Middlebrow' Instagram Is No Different From Yours"
-
-To watch: 
-
-- *El Planeta*
-- *Inventing Anna*, Episode 6: "Friends in Low Places"
-
-**DEADLINE: Tuesday 22 July: Paper 1**
-
-*Week 4: Wed 23 July---Tues 29 July*
-
-**Feminism/Postfeminism**
-
-Analyzing the shift from feminist to postfeminist media culture [@negra2007introduction] and its implications for contemporary media representation.
-
-- Diane Negra and Yvonne Tasker, "Introduction: Feminist Politics and Postfeminist Culture" [PDF](pdf/interrogating-postfeminism-intro.pdf)
-- Martin Roberts, "The Fashion Police: Governing the Self in *What Not To Wear*" [PDF](pdf/fashion-police.pdf)
-
-*Week 5: Wed 30 July---Tues 5 August*
-
-**Witnessing**
-
-Examining the role of digital media in documenting social justice and the concept of "bearing witness" in contemporary protest movements [@richardson2020bearing].
-
-Allissa V. Richardson, *Bearing Witness While Black*:
-
-- Chapter 1: "Looking As Rebellion: The Concept of Black Witnessing" [PDF](pdf/richardson-bearing-witness-ch1.pdf)
-- Chapter 3: "The New Protest #Journalism: Black Witnessing as Counternarrative" [PDF](richardson-bearing-witness-ch3.pdf)
-
-**DEADLINE: Wednesday 6 August: Response Paper 1 (**El Planeta**)**
-
-*Week 6: Wed 6 August---Tues 12 August*
-
-**Tribes: Subcultures, Lifestyles, Aesthetics**
-
-Investigating how internet aesthetics function as forms of identity construction and community building [@giolo2024aesthetics].
-
-- Guilherme Giolo and Michaël Berghman, "The Aesthetics of the Self: The Meaning-Making of Internet Aesthetics" [PDF](pdf/giolo-berghman-aesthetics.pdf)
-- [Aesthetics Wiki](https://aesthetics.fandom.com/wiki/Aesthetics_Wiki) (read all articles in the section called "What Are Aesthetics?" and explore the site)
-
-*Week 7: Wed 13 August---Tues 19 August*
+**I. Social Media Cultures**
 
 **Fandom**
 
-Exploring participatory culture and the social dynamics of digital fan communities [@baym2018music; @jenkins2012textual].
+09-09_Tues
 
-- Nancy K. Baym, "[Social Media and the Struggle for Society](pdf/baym-social-media-society.pdf)"  
 - Nancy K. Baym, Daniel Cavicchi, and Norma Coates, "[Music Fandom in the Digital Age: A Conversation](pdf/baym-music-fandom.pdf)" 
+- Lauren Mayberry, "[Chvrches' Lauren Mayberry: 'I will not accept online misogyny'](https://www.theguardian.com/music/musicblog/2013/sep/30/chvrches-lauren-mayberry-online-misogyny)" (*The Guardian*, 30 September 2013
 
-**DEADLINE: Tuesday 19 August: Response Paper 2 (film analysis)**
+09-11_Thur
 
-**DEADLINE: Friday 22 August: Paper 2/Creative Project**
+- Bertha Chin and Lori Hitchcock Morimoto, "[Introduction: Fan and Fan Studies in Transcultural Context](pdf/chin-morimoto-transcultural-fandom.pdf)"
 
----
+***
+
+*Week 3*
+
+**Fangirls**
+
+09-16_Tues
+
+- Kaitlyn Tiffany, *Everything I Need I Get from You: How Fangirls Created the Internet as We Know It*
+
+09-18_Thur
+
+***
+
+*Week 4*
+
+**Aesthetics**
+
+09-23_Tues
+
+- Robin James, "[New Normal](https://reallifemag.com/new-normal/)"
+- Paul Roquet, "[In the Mood](https://reallifemag.com/in-the-mood/)"
+- [Aesthetics Wiki](https://aesthetics.fandom.com/wiki/Aesthetics_Wiki) (read all articles in the section called "What Are Aesthetics?" and explore the site)
+
+**DEADLINE: Fandom Case Study**
+
+09-25_Thur
+
+- Guilherme Giolo and Michaël Berghman, "[The aesthetics of the self: The meaning-making of Internet aesthetics](pdf/giolo-berghman-aesthetics.pdf)
+
+***
+
+*Week 5*
+
+**Influencers**
+
+09-30_Tues
+
+- [Sophie Bishop](https://sophiebishop.co.uk/), "[Influencer Creep](https://reallifemag.com/influencer-creep/)"
+- [Sophie Bishop](https://sophiebishop.co.uk/), "[Influencer creep: How artists strategically navigate the platformisation of art worlds](https://journals.sagepub.com/doi/epub/10.1177/14614448231206090)
+
+10-02_Thur
+
+- [Sophie Bishop](https://sophiebishop.co.uk/), "[How to Research Online Influencers](https://sophiebishop.co.uk/wp-content/uploads/2023/12/how-to-research-online-influencers.pdf)"
+
+***
+
+*Week 6*
+
+**II. Platform Cultures**
+
+**Bookish**
+
+10-07_Tues
+
+- Jessica Maddox and Fiona Gill, "[Assembling 'Sides' of TikTok: Examining Community, Culture, and Interface through a BookTok Case Study](https://journals.sagepub.com/doi/epub/10.1177/20563051231213565)"
+- José M. Tomasena, "[Negotiating Collaborations: BookTubers, The Publishing Industry, and YouTube’s Ecosystem](https://journals.sagepub.com/doi/epub/10.1177/2056305119894004)"
+
+10-09_Thur
+
+- Alysia De Melo, "[The Influence of BookTok on Literary Criticisms and Diversity](https://journals.sagepub.com/doi/epub/10.1177/20563051241286700)"
+- Michael Dezuanni and Amy Schoonens, "[\#BookTok’s Peer Pedagogies: Invitations to Learn About Books and Reading on TikTok](https://journals.sagepub.com/doi/epub/10.1177/20563051241309499)"
+
+**DEADLINE: Aesthetics Case Study**
+
+***
+
+*Week 7*
+
+**Film**
+
+10-14_Tues
+
+::: {.column-margin}
+
+{{< video https://youtu.be/iqajurNSp1Q >}}
+
+:::
+
+- Queline Meadows, "The Rise of Film TikTok"
+
+10-16_Thur
+
+***
+
+*Week 8*
+
+**Music**
+
+10-21_Tues
+
+- D. Bondy Valdovinos Kaye, "[JazzTok: Creativity, Community,
+and Improvisation on TikTok](https://scholarlypublishingcollective.org/uip/jac/article/6/2/92/383572/JazzTok-Creativity-Community-and-Improvisation-on)"
+- Robin James, "[Moving in Stereo](https://reallifemag.com/moving-in-stereo/)"
+
+10-23_Thur
+
+- David Hesmondhalgh, Ellis Jones, and Andreas Rauh, "[Soundcloud and Bandcamp as Alternative Music Platforms](https://journals.sagepub.com/doi/epub/10.1177/2056305119883429)"
+- Jeremy Wade Morris, "[Music Platforms and the Optimization of Culture](https://journals.sagepub.com/doi/epub/10.1177/2056305120940690)"
+
+***
+
+*Week 9*
+
+**III. Algorithmic Anxieties**
+
+**Algospeak**
+
+10-28_Tues
+
+- Adam Aleksic, *Algospeak: How Social Media Is Transforming the Future of Language*
+
+10-30_Thur
+
+- Taylor Lorenz, "[Internet 'algospeak' is changing our language in real time, from 'nip nops' to 'le dollar bean'](https://www.washingtonpost.com/technology/2022/04/08/algospeak-tiktok-le-dollar-bean/)" (**Washington Post**, 8 April 2022) \[[pdf](pdf/algospeak.pdf)\]
+
+**DEADLINE: Platform Cultures Case Study**
+
+***
+
+*Week 10*
+
+**Fads**
+
+11-04_Tues
+
+- Kyle Chayka, "[IRL Brain Rot and the Lure of the Labubu](pdf/labubus.pdf)" (*The New Yorker*, 20 August 2025)
+
+11-06_Thur
+
+- Kyle Chayka, "[Is A.I. Art Stealing from Artists?](https://www.newyorker.com/culture/infinite-scroll/is-ai-art-stealing-from-artists)" (*The New Yorker*, 10 February 2023). \[[pdf](pdf/ai-art-stealing.pdf)\]
+
+***
+
+*Week 11*
+
+11-11_Tues
+
+NO CLASS (Veteran's Day)
+
+11-13_Thur
+
+**Algorithmic Art**
+
+- Kevin Esherick, "Manglecore and the Aesthetic of Strangeness" (*Duckrabbit* blog, 5 February 2024)
+
+***
+
+*Week 12*
+
+**Algorithmic Art** (cont.)  
+
+11-18_Tues
+
+Lev Manovich and Emmanuele Arielli, [*Artificial Aesthetics*](https://manovich.net/index.php/projects/artificial-aesthetics):
+
+- "Who is an Artist in AI Era?" (ch. 2)
+- "AI and Myths of Creativity" (ch. 4)
+
+11-20_Thur
+
+- "Seven Arguments About AI Images and Generative Media" (ch. 5)
+
+***
+
+*Week 13*
+
+11-25_Tues
+
+TBA
+
+11-27_Thur 
+
+**DEADLINE: Generative Art Project**
+
+NO CLASS (Thanksgiving)
+
+***
+
+*Week 14*
+
+12-02_Tues
+
+Generative Art Projects
+
+12-04_Thur
+
+Generative Art Projects
+
+***
+
+*Week 15*
+
+12-09_Tues
+
+Research Paper/Project 
+
+12-11_Thur
+
+Research Paper/Project
+
+***
+
+*Week 16*
+
+12-16_Tues 
+
+Conclusion
+
+**Last day of classes**
+
+## Policies
+
+**Academic Honesty**
+
+It is the responsibility of all Emerson students to know and adhere to the College's policy on plagiarism, which can be found at [emerson.edu/policies/plagiarism](https://emerson.edu/policies/plagiarism "Plagiarism"). If you have any question concerning the Emerson plagiarism policy or about documentation of sources in work you produce in this course, speak to your instructor.
+
+**Diversity**
+
+Every student in this class will be honored and respected as an individual with distinct experiences, talents, and backgrounds. Issues of diversity may be a part of class discussion, assigned material, and projects. The instructor will make every effort to ensure that an inclusive environment exists for all students. If you have any concerns or suggestions for improving the classroom climate, please do not hesitate to speak with the course instructor or to contact the Social Justice Center at 617-824-8528 or by email at [sjc\@emerson.edu](mailto:sjc@emerson.edu).
+
+**Discrimination, Harassment, or Sexual Violence**
+
+If you have been impacted by discrimination, harassment, or sexual violence, I am available to support you, and help direct you to available resources on and off campus. Additionally, the Office of Equal Opportunity ([oeo\@emerson.edu](mailto:oeo@emerson.edu "Email the Office of Equal Opportunity"); 617-824-8999) is available to meet with you and discuss options to address concerns and to provide you with support resources. Please note that I because I am an Emerson employee, any information shared with me related to discrimination, harassment, or sexual violence will also be shared with the Office of Equal Opportunity.  If you would like to speak with someone confidentially, please contact the Healing & Advocacy Collective, the Emerson Wellness Center, or the Center for Spiritual Life.
+
+**Accessibility**
+
+Emerson is committed to providing equal access and support to all students who qualify through the provision of reasonable accommodations, so that each student may fully participate in the Emerson experience. If you have a disability that may require accommodations, please contact Student Accessibility Services (SAS) at [SAS\@emerson.edu](mailto:SAS@emerson.edu) or 617-824-8592 to make an appointment with an SAS staff member.
+
+Students are encouraged to contact SAS early in the semester. Please be aware that accommodations are not applied retroactively.
+
+**Writing & Academic Resource Center**
+
+Students are encouraged to visit and utilize the staff and resources of Emerson's Writing Center, particularly if they are struggling with written assignments. The Writing Center is located at 216 Tremont Street on the 5th floor (tel. 617-824-7874).
+
+**In-Class Recording**
+
+Regardless of modality or whether this course is being recorded by the College with the permission of the students for classroom purposes, this class is considered a private environment and it is a setting in which copyrighted materials, creative works and educational records may be displayed. Audio or video recording, filming, photographing, viewing, transmitting, producing or publishing the image or voice of another person or that person's materials, creative works or educational records without the person's knowledge and expressed consent is strictly prohibited. 
+
+***
