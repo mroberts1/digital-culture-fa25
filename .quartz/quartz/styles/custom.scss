@@ -1,0 +1,171 @@
+@use "./variables.scss" as *;
+
+// ---------------------------------------------------------------------------
+// Plastic Labs theme
+// Palette, type scale and callout extras reproduced from
+// https://plasticlabs.ai/blog/ (itself a Quartz site).
+// Colours live in quartz.config.yaml; this file holds what the config
+// can't express.
+// ---------------------------------------------------------------------------
+
+// Departure Mono is not on Google Fonts, so it is self-hosted here. Google
+// still returns 200 for the combined request and simply skips the unknown
+// family; this @font-face is what actually resolves the header font.
+@font-face {
+  font-family: "Departure Mono";
+  src:
+    url("/static/fonts/DepartureMono-Regular.woff2") format("woff2"),
+    url("/static/fonts/DepartureMono-Regular.woff") format("woff");
+  font-weight: 400;
+  font-display: swap;
+}
+
+:root {
+  --customCallout: #b7ffec59;
+  --searchBackground: #d3d3d3;
+}
+
+:root[saved-theme="dark"] {
+  --customCallout: #00b8d410;
+  --searchBackground: #252525;
+}
+
+body {
+  font-size: 0.86rem;
+}
+
+// Plastic Labs runs a tighter heading scale than Quartz ships with.
+h1 {
+  font-size: 1.58rem;
+}
+h2 {
+  font-size: 1.26rem;
+}
+h3 {
+  font-size: 1.01rem;
+}
+h4,
+h5,
+h6 {
+  font-size: 0.9rem;
+}
+
+input[type="search"] {
+  background-color: var(--searchBackground);
+}
+
+// Long lines wrap rather than scroll horizontally.
+pre {
+  white-space: pre-wrap !important;
+  word-wrap: break-word !important;
+  padding: 1rem !important;
+
+  & > code {
+    white-space: pre-wrap !important;
+    word-wrap: break-word !important;
+    display: block !important;
+    padding-left: 1rem !important;
+  }
+}
+
+// An extra callout type beyond Obsidian's set: > [!custom]
+.callout[data-callout="custom"] {
+  --color: var(--darkgray);
+  --border: var(--tertiary);
+  --bg: var(--customCallout);
+  --callout-icon: var(--callout-icon-tip);
+}
+
+// Folder/tag listings render as a card grid instead of a plain list.
+.page-listing {
+  ul.section-ul {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 1.5rem;
+    padding: 0;
+    list-style: none;
+
+    @media all and #{$mobile} {
+      grid-template-columns: 1fr;
+    }
+  }
+
+  li.section-li {
+    position: relative;
+    border: 1px solid var(--lightgray);
+    border-radius: 8px;
+    background-color: var(--light);
+    padding: 1.5rem;
+    transition: all 0.2s;
+
+    &:hover {
+      border-color: var(--secondary);
+      transform: translateY(-2px);
+      box-shadow: 0 4px 12px #0000001a;
+    }
+
+    .section {
+      display: flex;
+      flex-direction: column;
+      gap: 0.5rem;
+      height: 100%;
+    }
+
+    .meta {
+      margin: 0;
+      font-size: 0.85rem;
+      opacity: 0.7;
+    }
+
+    .desc {
+      flex: 1;
+
+      h3 {
+        margin: 0;
+        font-size: 1.1rem;
+
+        a {
+          color: var(--dark);
+          text-decoration: none;
+
+          &:hover {
+            color: var(--secondary);
+          }
+
+          // Makes the whole card clickable.
+          &::after {
+            content: "";
+            position: absolute;
+            inset: 0;
+          }
+        }
+      }
+    }
+
+    .tags {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.5rem;
+      margin: 0;
+      padding: 0;
+      list-style: none;
+
+      li {
+        margin: 0;
+      }
+
+      a {
+        border-radius: 4px;
+        background-color: var(--highlight);
+        padding: 0.25rem 0.5rem;
+        font-size: 0.75rem;
+        text-decoration: none;
+
+        &:hover {
+          background-color: var(--secondary);
+          color: var(--light);
+        }
+      }
+    }
+  }
+}

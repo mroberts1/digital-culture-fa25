@@ -1,0 +1,19 @@
+{
+  "baseFontSize": 16,
+  "theme": "system",
+  "cssTheme": "Plastic Labs",
+  "translucency": false,
+  "accentColor": "",
+  "showViewHeader": false,
+  "enabledCssSnippets": [
+    "minimal",
+    "videoContainer",
+    "banner-image"
+  ],
+  "interfaceFontFamily": "iA Writer Quattro V",
+  "textFontFamily": "iA Writer Quattro V",
+  "nativeMenus": false,
+  "monospaceFontFamily": "Geist Mono",
+  "baseFontSizeAction": true,
+  "showRibbon": true
+}

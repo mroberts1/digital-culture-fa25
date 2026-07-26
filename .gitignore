@@ -1,0 +1,24 @@
+# Build output
+public/
+
+# OS
+.DS_Store
+
+# Quartz
+.quartz/node_modules/
+# Note the doubled path: the cache lives at .quartz/quartz/.quartz-cache,
+# so a pattern of .quartz/.quartz-cache/ does not match it.
+.quartz/quartz/.quartz-cache/
+
+# Course readings: scanned book chapters, deliberately not published.
+# Every [pdf] link on the built site will 404 as a result.
+content/pdf/
+
+# Obsidian: keep settings, skip the 69M of installed plugins and local state
+.obsidian/plugins/
+.obsidian/workspace*
+
+# Local tooling caches
+.smart-env/
+.chum-cache/
+.claude/
