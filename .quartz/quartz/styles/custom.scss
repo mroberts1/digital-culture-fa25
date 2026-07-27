@@ -11,11 +11,16 @@
 // Departure Mono is not on Google Fonts, so it is self-hosted here. Google
 // still returns 200 for the combined request and simply skips the unknown
 // family; this @font-face is what actually resolves the header font.
+// Paths are relative, not root-absolute. The stylesheet is emitted at the site
+// root, so "static/fonts/..." resolves under any baseUrl. A leading slash would
+// 404 on GitHub Pages project sites, which are served from /<repo>/ — and the
+// breakage is invisible on any machine that has Departure Mono installed
+// locally, because the system font satisfies the family name.
 @font-face {
   font-family: "Departure Mono";
   src:
-    url("/static/fonts/DepartureMono-Regular.woff2") format("woff2"),
-    url("/static/fonts/DepartureMono-Regular.woff") format("woff");
+    url("static/fonts/DepartureMono-Regular.woff2") format("woff2"),
+    url("static/fonts/DepartureMono-Regular.woff") format("woff");
   font-weight: 400;
   font-display: swap;
 }
